@@ -5,7 +5,7 @@
 - Developer of [Bandbbs](https://www.bandbbs.cn/members/1222159/)
 - Partner of the [Zharn](https://www.zharn.top/)
 - Designer
-- Cat lover
+- Cat lover🐱
 ## ⌨️ I code with…
 ![](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/html-red?logo=html5&logoColor=white)
