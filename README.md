@@ -13,5 +13,5 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
 ## 📫 Reach me
 - QQ: [1482163108](https://message/?uin=1172715738)
-- Email: [@Sutarn][mailto:sutarn@zharn.top]
+- Email: [@Sutarn](mailto:sutarn@zharn.top)
 - 抖音: [小猫Sutarn](https://www.douyin.com/user/MS4wLjABAAAAXCpPRT-fwJYtTzZxm6T7Pgnt4TLY-uqlvXNtJujceTA)
