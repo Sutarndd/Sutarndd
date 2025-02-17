@@ -14,4 +14,4 @@
 ## 📫 Reach me
 - QQ: [1482163108](https://message/?uin=1172715738)
 - Email: Sutarn@zharn.top
-- 抖音: [Sutarn](https://www.douyin.com/user/MS4wLjABAAAAXCpPRT-fwJYtTzZxm6T7Pgnt4TLY-uqlvXNtJujceTA)
+- 抖音: [小猫Sutarn](https://www.douyin.com/user/MS4wLjABAAAAXCpPRT-fwJYtTzZxm6T7Pgnt4TLY-uqlvXNtJujceTA)
