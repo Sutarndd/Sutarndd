@@ -1,16 +1,14 @@
-## Hi there 👋 I'm Sutarn
+# 👋 Hi there, I’m Sutarn!
 
-<!--
-**Sutarndd/Sutarndd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👾 About me
+- A high school student from Zhejiang
+- Developer of [Bandbbs](https://www.bandbbs.cn/members/1222159/)
+- Partner of the [Zharn](https://www.zharn.top/)
+## ⌨️ I code with…
+![](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![](https://img.shields.io/badge/html-red?logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
+## 📫 Reach me
+- QQ: [1482163108](https://message/?uin=1172715738)
+- Email:[Sutarn@zharn.top]()
