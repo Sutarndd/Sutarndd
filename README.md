@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Sutarn!
 
-## 👾 Who am I
+## 👾 About me
 - A high school student in Zhejiang
 - Developer of [Bandbbs](https://www.bandbbs.cn/members/1222159/)
 - Partner of the [Zharn](https://www.zharn.top/)
