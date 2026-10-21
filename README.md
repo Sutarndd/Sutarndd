@@ -3,8 +3,8 @@
 ## 👾 About me
 - A high school student in Zhejiang
 - Developer of [Bandbbs](https://www.bandbbs.cn/members/1222159/)
-- [Astrobox](https://astrobox.online)Community Resource Reviewer
-- [Vloger]/www.douyin.com/user/MS4wLjABAAAAXCpPRT-fwJYtTzZxm6T7Pgnt4TLY-uqlvXNtJujceTA)
+- [Astrobox](https://astrobox.online) Community Resource Reviewer
+- [Vloger](https://www.douyin.com/user/MS4wLjABAAAAXCpPRT-fwJYtTzZxm6T7Pgnt4TLY-uqlvXNtJujceTA)
 - Designer
 - Cat lover🐱
 ## ⌨️ Languages I specialise in
